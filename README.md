@@ -12,3 +12,8 @@
    Going a little beyond your question, an ANOVA only tells you that there are differences between your groups, not where they lie. Therefore you would use a priori contrasts to test hypothesised differences between the groups or post-hoc tests to examine where the differences lie.
 
 [watch this video](https://www.youtube.com/watch?v=SULO2-gjZoY)
+
+
+### P-value in Regression [[Here]()]
+
+     [watch Video](https://www.youtube.com/watch?v=6psBul7K2gw)
