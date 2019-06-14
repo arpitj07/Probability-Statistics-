@@ -16,4 +16,12 @@
 
 ### P-value in Regression [[Here]()]
 
-     [watch Video](https://www.youtube.com/watch?v=6psBul7K2gw)
+   - [watch Video](https://www.youtube.com/watch?v=6psBul7K2gw)
+
+
+
+- **Useful Links**
+   - [ANOVA (One Way Vs. Two Way)](https://medium.com/@StepUpAnalytics/anova-one-way-vs-two-way-6b3ff87d3a94)
+   - [Regression Analysis: How Do I Interpret R-squared and Assess the Goodness-of-Fit?](https://blog.minitab.com/blog/adventures-in-statistics-2/regression-analysis-how-do-i-interpret-r-squared-and-assess-the-goodness-of-fit)
+   - [Statistical tests](https://towardsdatascience.com/statistical-tests-when-to-use-which-704557554740)
+   - []()
