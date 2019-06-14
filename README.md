@@ -24,4 +24,4 @@
    - [ANOVA (One Way Vs. Two Way)](https://medium.com/@StepUpAnalytics/anova-one-way-vs-two-way-6b3ff87d3a94)
    - [Regression Analysis: How Do I Interpret R-squared and Assess the Goodness-of-Fit?](https://blog.minitab.com/blog/adventures-in-statistics-2/regression-analysis-how-do-i-interpret-r-squared-and-assess-the-goodness-of-fit)
    - [Statistical tests](https://towardsdatascience.com/statistical-tests-when-to-use-which-704557554740)
-   - []()
+   - [Basic Statistics Every Data Scientist should know](https://medium.com/better-programming/statistics-review-for-data-scientists-and-management-df8f94760221)
